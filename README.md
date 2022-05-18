@@ -16,15 +16,19 @@ Clone the repository and use the following scripts per your use case:
 The model developed using 2 hidden layers with ReLu activation was scored using accuracy and f1-score, attaining 52.29% accuracy on the test dataset.
 
 Model architecture:
+
 ![model](https://github.com/khaiyuann/customer_segmentation/blob/main/results/model.png)
 
 Feature/target correlation:
+
 ![correlation](https://github.com/khaiyuann/customer_segmentation/blob/main/results/correlation.png)
 
 Train/test results (achieved 52.29% accuracy and f1 score):
+
 ![train_test_results](https://github.com/khaiyuann/customer_segmentation/blob/main/results/train_test_score.png)
 
 TensorBoard view:
+
 ![tensorboard](https://github.com/khaiyuann/customer_segmentation/blob/main/results/tensorboard.png)
 
 # Discussion of results
