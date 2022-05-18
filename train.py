@@ -112,7 +112,7 @@ model.save(MODEL_SAVE_PATH)
 
 #%% Analysis of results
 '''
-From the results obtained of 52%, it falls short of the targeted 80%.
+From the results obtained of 52.29%, it falls short of the targeted 80%.
 There are various limitations that contribute to the result deficiencies:
     
     1. The dataset consists of many categorical features that have NaN
